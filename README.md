@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+O juiz - Natty or Not? 🕵️
 
-## 🚀 Introdução
+Este projeto foi desenvolvido como parte do Bootcamp NEXA - Fundamentos de IA Generativa com AWS Bedrock, em parceria com a DIO. O aplicativo, criado no PartyRock da AWS, permite que o usuário gere uma imagem personalizada a partir de uma descrição e, em seguida, analisa se a imagem enviada é real ou gerada por inteligência artificial.
 
-> Woooow! Look at this 👀
+Inspirado na tendência “Natty or Not” do fisiculturismo, o projeto traz uma proposta divertida: explorar o poder das IAs Generativas e desafiar nossa própria percepção do que é “natural” ou “artificial” no mundo digital.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+LINK DO PROJETO NO PARTYROCK: https://partyrock.aws/u/MatheusVentura/v_U28WH32/O-Juiz-Natty-or-Not
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+🤖 Tecnologias e Habilidades Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Amazon PartyRock – para criação rápida do app com base em IAs generativas.
 
-### Template
+Modelos de IA Generativa (Texto e Imagem) – geração e análise de imagens realistas.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Prompt Engineering – para refinar a criação e avaliação das imagens.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🤔 Processo de Criação
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Definição da ideia: criar uma experiência interativa em que o usuário possa gerar uma imagem e testar se consegue enganar a IA com uma saída dela mesma.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Construção no PartyRock: após a apresentação da ferramenta na live de mentoria, escolhi o PartyRock para a criação do projeto, com o uso de componentes para entrada de texto (prompt do usuário), geração de imagem e verificação de autenticidade.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Implementação da análise: o app avalia a imagem e fornece uma análise (sujeita a erros), se ela é Real ou Feita por IA, com base em padrões visuais e contexto.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Ajustes e testes: otimização dos prompts e fluxos de interação para melhorar a precisão e experiência do usuário, como adicionar campos diferentes para a criação e para o envio da imagem, caso queira enviar uma imagem que não foi gerada dentro daquele modelo.
 
-### Exemplos e Insigths
+🚀 Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+O resultado é um aplicativo intuitivo e interativo, capaz de gerar imagens realistas sob demanda e avaliar a autenticidade de qualquer imagem enviada pelo usuário. Ele demonstra na prática o potencial das ferramentas de IA Generativa da AWS, além de promover reflexões sobre a autenticidade no mundo digital e os desafios de distinguir o real do artificial.
 
-## Links Interessantes
+💭 Reflexão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar este projeto foi uma experiência imersiva e divertida! Ele mostra como as IAs Generativas estão redefinindo os limites da criatividade e da percepção humana. No fim das contas, até mesmo a IA tem dificuldade de decifrar o mistério.
